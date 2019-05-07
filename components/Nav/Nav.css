@@ -1,0 +1,17 @@
+.nav-list{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-link a{
+    font-weight: bold;
+    color: darkslategray;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.nav-link a:hover{
+    color: floralwhite;
+    text-decoration: underline overline;
+}
+
